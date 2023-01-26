@@ -1,0 +1,9 @@
+name: dendra
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - requests
+prefix: /Applications/anaconda3/envs/dendra
